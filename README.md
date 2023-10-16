@@ -19,6 +19,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 3 | 26.09.2023 | Машинное обучение: классы и виды задач. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect03/) |
 | ДЗ №1 | 26.09.2023<br />дедлайн: **10.10.2023** | Постановка задач наук о Земле в терминах машинного обучения | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW01/)<br />[Достижения участников](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW01/leaderboard.md) |
 | Лекция 4 | 03.10.2023 | Вероятностная постановка задач МО.<br />Принцип максимизации правдоподобия. | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-Lect04-2023-10-03)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect04/) |
+| ДЗ №2 | 17.10.2023<br />дедлайн: **23.10.2023** | Технические основы анализа данных | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW02/)<br />[Достижения участников](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW02/leaderboard.md) |
 
 ### Рекомендуемая литература
 
