@@ -22,6 +22,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | ДЗ №2 | 17.10.2023<br />дедлайн: **23.10.2023** | Технические основы анализа данных | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW02/)<br />[Достижения участников](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW02/leaderboard.md) |
 | Лекция 5 | 17.10.2023 | Общий принцип решения задач обучения с учителем.<br />Модель линейной регрессии. Вероятностная постановка. Функция потерь линейной регрессии. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-10-17-Lect05)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect05/) |
 | ДЗ №3 | 17.10.2023<br />дедлайн: **31.10.2023** | Вероятностные основы линейной регрессии.<br />Вывод функции потерь для предположения о распределении Лапласа для плотности вероятности целевой переменной. | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW03/)<br />[Достижения участников](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW03/leaderboard.md) |
+| Лекция 6 | 31.10.2023 | Признаковое описание объектов в машинном обучении.<br />Общая последовательность решения задач обучения с учителем. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-10-31-Lect06)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect06/) |
 
 
 
