@@ -26,6 +26,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 7 | 07.11.2023 | Оценка качества для модели линейной регрессии.<br />Реализация модели линейной регрессии в коде на Python | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect07-2023-11-07)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect07/) |
 | Лекция 8 | 21.11.2023 | Неопределенность моделей машинного обучения.<br />Оценка неопределенностей с применением подхода Bootstrap. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect08-2023-11-21)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect08/) |
 | Лекция 9 | 28.11.2023 | Градиентная оптимизация параметрических моделей машинного обучения.<br />Метод градиентного спуска.<br />Обсуждение ДЗ №4 | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect09-2023-11-28)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect09/) |
+| ДЗ №4 | 28.11.2023<br />дедлайн: **15.12.2023** | Решение задачи машинного обучения с использованием модели линейной регрессии с оценкой неопределенностей. | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW04)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/tree/main/HW04/leaderboard.md) |
 
 
 
