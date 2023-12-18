@@ -7,6 +7,16 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 
 [Правила распространения источников](./resources_policy.md)<br />
 
+<br />
+
+<br />
+
+## Зачетная сессия I-го семестра
+
+Состав домашних заданий зафиксирован на четырех.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/master/term1_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
+
 <br /><br />
 
 -------
