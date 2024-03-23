@@ -47,6 +47,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 12 | 27.02.2024 | Задача классификации.<br />Наивный байесовский классификатор | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect12-2024-02-27)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect12/) |
 | Лекция 13 | 05.03.2024 | Задача классификации.<br />Логистическая регрессия<br />Мультиномиальная логистическая регрессия.<br />Библиотека автоматического вычисления градиентов [JAX](https://github.com/google/jax)<br />Практика (демонстрация кода) | [видеозапись-1](https://ml4es.ru/links/ML4ES1-2023-03-07-Lect15) (по материалам 2023 г.)<br />[видеозапись-2](https://ml4es.ru/links/ML4ES1-2023-03-16-Lect16) (по материалам 2023 г.)<br /><br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect13/) |
 | Лекция 14 | 12.03.2024 | Оценка качества в задачах классификации. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect14-2024-03-12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect14/) |
+| ДЗ №5 | 12.03.2023<br />дедлайн **30.03.2024** | Свойства логистической регрессии | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW05)<br />[Описание в PDF](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW05/README.pdf)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/tree/main/HW05/leaderboard.md) |
 | Лекция 15 | 19.03.2024 | Непараметрические методы машинного обучения<br />Метод деревьев решений. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect15-2024-03-19)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect15/) |
 
 
@@ -98,4 +99,4 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 
 [Подборка](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) книг издательства Springer, доступных для свободной загрузки, по компьютерным наукам, комьютерному зрению, машинному обучению и науке о данных.
 
-[Полный список](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
+[Полный список](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.	
