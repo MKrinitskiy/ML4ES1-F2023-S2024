@@ -49,6 +49,9 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 14 | 12.03.2024 | Оценка качества в задачах классификации. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect14-2024-03-12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect14/) |
 | ДЗ №5 | 12.03.2023<br />дедлайн **30.03.2024** | Свойства логистической регрессии | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW05)<br />[Описание в PDF](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW05/README.pdf)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/tree/main/HW05/leaderboard.md) |
 | Лекция 15 | 19.03.2024 | Непараметрические методы машинного обучения<br />Метод деревьев решений. | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect15-2024-03-19)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect15/) |
+| Лекция 16 | 26.03.2024 | Ансамблирование в машинном обучении: взвешенное голосование, стекинг, бэггинг. | [видеозапись](https://ml4es.ru/links/ML4ES-2024-03-26-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect16/) |
+
+
 
 
 
