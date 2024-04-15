@@ -52,6 +52,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 16 | 26.03.2024 | Ансамблирование в машинном обучении: взвешенное голосование, стекинг, бэггинг. | [видеозапись](https://ml4es.ru/links/ML4ES-2024-03-26-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect16/) |
 | Лекция 17 | 02.04.2024 | Ансамбли в машинном обучении.<br />Случайные леса (Random Forests),<br /> Бустинг (напр., AdaBoost),<br />Градиентный бустинг (XGBoost, LightGBM, CatBoost) | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect17-2024-04-02)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect17/) |
 | Лекция 18 | 09.04.2024 | Обобщенные линейные модели (GLM);<br />Обобщенные аддитивные модели (GAM)<br />Искусственные нейронные сети (ANN) | [видеозапись](https://ml4es.ru/links/ML4ES-2023-Lect18-2024-04-09)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/Lect18/) |
+| ДЗ №6 | 16.04.2024<br />дедлайн **30.04.2024** | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/main/HW06)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/tree/main/HW06/leaderboard.md) |
 
 
 
